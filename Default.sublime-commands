@@ -1,0 +1,11 @@
+[
+	{
+		"caption": "Publora: Send selection",
+		"command": "publora_send"
+	},
+	{
+		"caption": "Publora: Send this file",
+		"command": "publora_send",
+		"args": { "whole_file": true }
+	}
+]

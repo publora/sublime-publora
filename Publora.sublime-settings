@@ -1,4 +1,4 @@
 {
-	// API key from https://app.publora.com/dashboard/api — it starts with sk_
+	// API key from https://app.publora.com/dashboard/api?utm_source=sublime&utm_medium=package — it starts with sk_
 	"api_key": ""
 }

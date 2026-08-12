@@ -13,7 +13,7 @@ import sublime
 import sublime_plugin
 
 BASE_URL = "https://api.publora.com/api/v1"
-KEYS_URL = "https://app.publora.com/dashboard/api"
+KEYS_URL = "https://app.publora.com/dashboard/api?utm_source=sublime&utm_medium=package"
 SETTINGS_FILE = "Publora.sublime-settings"
 
 # Networks that reject a post without an image or video.

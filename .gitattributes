@@ -1,0 +1,4 @@
+# Keep the installed package to what Sublime actually needs.
+.gitignore      export-ignore
+.gitattributes  export-ignore
+.github/        export-ignore
